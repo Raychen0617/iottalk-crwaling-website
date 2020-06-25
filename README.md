@@ -1,4 +1,6 @@
-using python to crwal dynamic website push data into dashboard
+python crwaling dynamic website 
+===
+push data into dashboard
 ===
 # iottalk-crwaling-website
 
@@ -37,6 +39,6 @@ execute bash startup.sh (whenever you change anything, execute one time) <br>
 
 then push the data into dashboaard 
 
-[result vedio]()
+[result vedio](https://studio.youtube.com/video/n1s-N4cdDXI/edit/basic)
 
 
