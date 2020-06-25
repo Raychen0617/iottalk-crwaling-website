@@ -39,6 +39,6 @@ execute bash startup.sh (whenever you change anything, execute one time) <br>
 
 then push the data into dashboaard 
 
-[result vedio](https://studio.youtube.com/video/n1s-N4cdDXI/edit/basic)
+[result vedio](https://youtu.be/n1s-N4cdDXI)
 
 
